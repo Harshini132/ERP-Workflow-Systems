@@ -1,0 +1,22 @@
+ERP-Workflow-System/
+│
+├── Main.java
+│
+├── model/
+│   ├── Employee.java
+│   ├── Task.java
+│   ├── Department.java
+│   ├── WorkflowReport.java
+│   └── PerformanceRecord.java
+│
+├── service/
+│   ├── EmployeeService.java
+│   ├── TaskService.java
+│   ├── WorkflowService.java
+│   ├── ReportService.java
+│   └── DepartmentService.java
+│
+├── ui/
+│   └── ERPManagementUI.java
+│
+└── README.md
